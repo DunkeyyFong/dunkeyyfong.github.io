@@ -8,8 +8,8 @@
 		"version": "18.08.1",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
 		"category": "Tweaked Apps",
-		"changelog": "-Phần mới",
-		"href": "https://dunkeyyfong.github.io/info/mau.html",
+        "changelog": "-Phần mới",
+		"description": "https://dunkeyyfong.github.io/info/mau.html",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
 		"contact": {
@@ -148,5 +148,14 @@
 		"bundleID": "com.DebianArch.Scarlet",
 		"category": "Alpha",
 		"changelog": "- Fixed crashes under certain circumstances"
+	}, {
+		"name": "Esign",
+		"version": "4.7.7.3",
+		"icon": "https://esign.yyyue.xyz/ESignLogo200.png",
+		"down": "https://pan.yyyue.xyz/d/esign/esign_4.7.7.3_unsigned.ipa",
+		"description": "Ứng dụng cài đặt và kí iPA",
+		"bundleID": "xyz.yyyue.esign",
+		"category": "Alpha",
+		"changelog": "- Sửa lỗi không kí được iPA"
 	}]
 }
