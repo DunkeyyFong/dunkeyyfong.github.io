@@ -1,77 +1,18 @@
-Package: com.dunkeyfong.carbridge13
+Package: com.dunkeyyfong.trollstorehelper
 Architecture: iphoneos-arm
-Version: 2.0.10
-Section: Tweaks
-Maintainer: Dunkey Fong ✌🏻
-Installed-Size: 7156
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./DEB/com.dunkeyfong.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 1868846
-MD5sum: 67473193101d6c73442bc539f1980d96
-SHA1: aaebe02176e82d9caca63e5ca8c428290c97a268
-SHA256: 6a636b6873b5a9dab0899f8946bd8af0b6ea894711affc24df07dfabeca9493a
-SHA512: eba070e22cfc09f54200e4d1b8b97d0e1e64e9afdd3b2ab46e01d39f9cc00cf029b3faaeea9d6feab8c966588ad4a641f338c9ad7e82d94adf5efe83b14c3a12
-Description: Mở toàn bộ các ứng dụng trên CarPlay !
-Tag: cydia::commercial
-Name: CarBridge
-Author: leftyfl1p <carbridge@havoc.app>
-
-Package: com.dunkeyfong.carplay
-Architecture: iphoneos-arm
-Version: 1.0.9.5
-Section: Tweaks
-Maintainer: Dunkey Fong ✌🏻
-Installed-Size: 5252
-Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
-Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
-Filename: ./DEB/com.dunkeyfong.carplay_1.0.9.5_iphoneos-arm.deb
-Size: 3315150
-MD5sum: 41832f8c052b762d2bf4ecb900b4cb0d
-SHA1: b346f054805f14d9a92efa1274155eab88a1603d
-SHA256: adfe23880ae827fca72d51c6470b986860ddd331e8c9b2f2e9f4506b2e203fa0
-SHA512: 391bb0f20a02eeb39c2d03f7006259901e4175cfc59d5b5413fc5f8bb2ffe9b9e086ca6b0a56db9722710ea0d708f5a9e7cf8491a8278e51ce70bae784e98498
-Description: Mở toàn bộ ứng dụng trong CarPlay
-Tag: cydia::commercial
-Name: CarBridge
-Author: leftyfl1p <carbridgetweak@gmail.com>
-
-Package: com.dunkeyfong.checkl0ck
-Architecture: iphoneos-arm
-Version: 1.4.0
-Section: Tweaks
-Maintainer: DunkeyFong✌🏻
-Installed-Size: 1628
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3), preferenceloader, com.foxfort.foxforttools (>= 1.3.0)
-Conflicts: me.krit.lockdown, org.mr.lockdown, com.hackyouriphone.lockdown, com.wxhbts.lockdown, com.trappledestek.lockdown, com.34306.lockdown, com.cydiabc.lockdown, apt.cydiakk.lockdown, com.foxfort.vizage, com.longmen06.check4round, com.yourepo.plat-ykor.check4round, me.myclassic.checkl0ck, net.cadoth.fakepass
-Filename: ./DEB/com.dunkeyfong.checkl0ck_1.4.0_iphoneos-arm.deb
-Size: 699758
-MD5sum: aadfe2cf08091bf979f1e3a523024c54
-SHA1: 937a23eb583b427182876b73f4e38972fdee7b7e
-SHA256: f83564ef3658e14d478f3667e7a36f147a08d1653468b0836286795ea90fa7f0
-SHA512: ecf3ee57fc7b4e8c90497dc7ed9e5fa8eaa65f9ef7f4f58d96c5fc34abc2013ae3f9730477462fff86da9994ff02e0dd345d72c12296b0a5fd66ab5c2d65a957
-Description: Sử dụng FaceID/TouchID cho các máy jailbreak checkm8 palera1n hoặc checkra1n
-Name: Checkl0ck
-Author: FoxfortMobile
-Depiction:
-Icon: file:///Library/PreferenceBundles/checkl0cksettings.bundle/icon@3x.png
-
-Package: com.foxfort.foxforttools
-Architecture: iphoneos-arm
-Version: 1.3.3
-Section: Development
-Maintainer: FoxfortMobile
-Installed-Size: 1744
-Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.3.4)
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools
-Filename: ./DEB/com.foxfort.foxforttools_1.3.3_iphoneos-arm.deb
-Size: 410852
-MD5sum: bc80d05277f3de2dc2c344875908d502
-SHA1: f97e2f838ebc1511001764ed590ca18930ede3fc
-SHA256: 1e784259beaf183c33427f12f59de9055e6a3e5c82150f885032ec6457f0571a
-SHA512: d9e9b089924222b2e8eb93956eb0f05101a2f9950cb9b9b0cfb4b4dd6c1cc7268469777b0ca972dff230555360c450255534451cbf72fe0efedf81da1ae460fb
-Description: Helper tools for Foxfort tweaks
-Tag: role::developer
-Name: FoxFort Tools
-Author: FoxfortMobile
+Version: 1.5.1
+Section: Ứng dụng cài đặt
+Maintainer: dunkeyyfong
+Installed-Size: 676
+Filename: ./DEB/com.dunkeyyfong.trollstorehelper_1.5.1_iphoneos-arm.deb
+Size: 272488
+MD5sum: 61d097e1d648cd2c4d0ffb494da851cb
+SHA1: e6bda6ea9f0cddf33eb849cff54c0839c0c9af04
+SHA256: f2e60cec7eb126700dc258744336c810ee33db6ffca578905d044809146c16dc
+SHA512: 7c3fd8dd56221865cc41adbcbf85f0f88b2a5b91c62b8140b1a5a4e86dc4ca109d3ccf82284f14c27566096dcd2b6a93d920ce5e8480f7c96d590eb702babd1e
+Description: Trình cài đặt iPA trên điện thoại
+Name: TrollStore Helper
+Depiction: https://dunkeyyfong.github.io/info/trollhelper.html
+SileoDepiction: https://dunkeyyfong.github.io/info/trollhelper.html
+Author: opa334
 
