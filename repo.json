@@ -20,7 +20,19 @@
             "versionDescription": "uYou++",
             "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
             "localizedDescription": "uYou++ - xóa QC, phát nền",
-            "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F3225180%2Fapp_logo_media_popular_social_youtube_icon&psig=AOvVaw0hamNo-NMyetOf2RQG4-5L&ust=1678178123172000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCBlunyxv0CFQAAAAAdAAAAABAW",
+            "iconURL": "",
+        }, {
+            "name": "Picart Gold",
+            "bundleIdentifier": "com.dunkeyyfong.repo",
+            "developerName": "Phong",
+            "version": "21.7.3",
+            "versionDescription": "Crack Gold cho Picart",
+            "downloadURL": "https://download1477.mediafire.com/bw47g38dum4goLTuNzFE_774cHX1hz1VzdaoX-iKYUJXEzDUd3JiD8vBC4l_nsVZipVXKFrSshcpOBrUUNvrVfMdQQ/2nytc6a3gukcnvf/PicsArtGoldPro_21.3.14_HI+%281%29.ipa",
+            "localizedDescription": "Kho iPA của DunkeyyFong",
+            "iconURL": "https://dunkeyyfong.github.io/info/img/picart.png",
+            "tintColor": "018084",
+            "size": 103780,
+            "type": 1
         }
     ]
 }
