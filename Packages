@@ -20,6 +20,27 @@ Depiction: https://dunkeyyfong.github.io/info/appsync.html
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 
+Package: com.dunkeyyfong.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.9-1
+Section: Tweaks
+Maintainer: DunkeyyFong
+Installed-Size: 1195
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: vn.dunkeyyfong.carbridge13, com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./DEB/com.dunkeyyfong.carbridge13_2.0.9-1_iphoneos-arm.deb
+Size: 422574
+MD5sum: 01980b97ffb8bf1a1534c25542f4e4a4
+SHA1: 7052647d4ff4cb43e1c51bb199c531ee9d25aaab
+SHA256: d21700d265a82f2da6fd22f6b9253351904d4d9ecc8773e68718a88ddafa9817
+SHA512: 1b60307ad360086664cf3bf8f3fe4f4f827e4a37f8b8b9178e777660947ca1ac2ca12825d4835c2924f378318e40b58e93bbcb8f2949ef4988ab7fec64894c70
+Homepage: https://repo.packix.com/package/com.leftyfl1p.carbridge13/
+Description: Mở full app trên Carplay
+Name: CarBridge (iOS 13 - 14) VN
+Author: leftyfl1p
+Sileodepiction: https://dunkeyyfong.github.io/info/carbridge13.html
+Depiction: https://dunkeyyfong.github.io/info/carbridge13.html
+
 Package: com.dunkeyyfong.carplay
 Architecture: iphoneos-arm
 Version: 1.0.9.5
