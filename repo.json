@@ -1,17 +1,26 @@
 {
     "name": "Dunkeyyfong",
     "identifier": "com.dunkeyyfong.repo",
-    "sourceURL": "https://dunkeyyfong.github.io/repo.json",
+    "sourceURL": "https://dunkeyfong123.github.io/repo.json",
     "apps": [
         {
-            "name": "Cowabunga",
+            "name": "Esign",
             "bundleIdentifier": "p3.com.dunkeyyfong.repo",
             "developerName": "phong",
             "version": "4.7.7.3",
-            "versionDescription": "Cai dat he thong",
+            "versionDescription": "Esign - Kí iPA",
             "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.7.7.3_unsigned.ipa",
             "localizedDescription": "Cai dat he thong。",
             "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+        }, {
+            "name": "uYou++",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "phong",
+            "version": "18.08.1",
+            "versionDescription": "uYou++",
+            "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
+            "localizedDescription": "uYou++ - xóa QC, phát nền",
+            "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F3225180%2Fapp_logo_media_popular_social_youtube_icon&psig=AOvVaw0hamNo-NMyetOf2RQG4-5L&ust=1678178123172000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCBlunyxv0CFQAAAAAdAAAAABAW",
         }
     ]
 }
