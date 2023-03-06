@@ -41,6 +41,25 @@ Author: leftyfl1p
 Sileodepiction: https://dunkeyyfong.github.io/info/carbridge13.html
 Depiction: https://dunkeyyfong.github.io/info/carbridge13.html
 
+Package: com.dunkeyyfong.carbridge15
+Architecture: iphoneos-arm
+Version: 2.0.10
+Section: Tweaks
+Maintainer: DunkeyyFong
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay , com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./DEB/com.dunkeyyfong.carbridge15_2.0.10_iphoneos-arm.deb
+Size: 1869418
+MD5sum: 04f64eaebad0cc9d571a2bcd402774e8
+SHA1: 0fde7b538e99accce6a99bd8815a72093b348ead
+SHA256: 060bd047526987f03e6a7722dd9ef4904e8a310e053d154d4d6277f715b3d58b
+SHA512: 52b74c927e31c18894f4d3f8a00c6dd08525c93e67d465cb1b721550458fad45bf41d68250929c34cd9b6afd62f4b305e08b79d21d742448488f71956fd113db
+Description: Mở full app trên Carplay
+Name: Carbridge (iOS 15) VN
+Depiction: https://dunkeyyfong.github.io/info/carbridge15.html
+SileoDepiction: https://dunkeyyfong.github.io/info/carbridge15.html
+Author: leftyfl1p
+
 Package: com.dunkeyyfong.carplay
 Architecture: iphoneos-arm
 Version: 1.0.9.5
