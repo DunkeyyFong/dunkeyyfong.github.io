@@ -1,3 +1,41 @@
+Package: com.dunkeyyfong.filza
+Architecture: iphoneos-arm
+Version: 4.0.0-6
+Section: Utilities
+Maintainer: DunkeyyFong
+Depends: zip, unzip, gzip, unrar, p7zip, com.dunkeyyfong.libfilza
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./DEB/com.dunkeyyfong.filza_4.0.0-6_iphoneos-arm.deb
+Size: 8700438
+MD5sum: 29341628fdd8e92ec16055c53b0470fd
+SHA1: 90f881e45f3581cc4e98fd048313494d4b9fefe9
+SHA256: 6e5710bcce648ca536aa4ef575f7e60058dc3cfd083033ecf76e102b7214a7ac
+SHA512: 3054561e80681c9fb9687b138428c105df644011e7f47afba8a6b19b34778d35ecf93f64fa0bfb6058acaf3a14fe9beafefcbc4ae55ccfb954ab1446ffba01ba
+Description: https://dunkeyyfong.github.io/info/filza.html
+Name: Filza File Manager VN
+Depiction: https://dunkeyyfong.github.io/info/trollhelper.html
+SileoDepiction: https://dunkeyyfong.github.io/info/trollhelper.html
+Author: TIGI Software
+
+Package: com.dunkeyyfong.libfilza
+Architecture: iphoneos-arm
+Version: 3.1
+Section: System
+Maintainer: DunkeyyFong
+Conflicts: ru.rejail.filza
+Filename: ./DEB/com.dunkeyyfong.libfilza_3.deb
+Size: 35062
+MD5sum: f6a6c4053f379d00867f4c8e91891f4e
+SHA1: bfd3318abcd676b67a8af8290010c63609b23d14
+SHA256: a82aa4c24ee590d8a3baffe281e5ab758a858b0a24a6fa5904367105e5fb72ab
+SHA512: c2cc35533b21ffe7e2f3fc84b1ca3529eb75e5a529e8b7291d6faa6cd3d5a5a8d1cbe9598868479987dc0a6a0ded567c3dae44a5a2fb7f05a22ef632bf5e62bd
+Description: Activate Filza!
+Name: LibFilza
+Author: ReJail
+Sileodepiction: http:://dunkeyyfong.github.io/info/filza.html
+Depiction: http:://dunkeyyfong.github.io/info/filza.html
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
 Package: com.dunkeyyfong.trollstorehelper
 Architecture: iphoneos-arm
 Version: 1.5.1
