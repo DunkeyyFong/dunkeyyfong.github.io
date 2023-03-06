@@ -1,3 +1,25 @@
+Package: com.dunkeyyfong.appsyncunified
+Architecture: iphoneos-arm
+Version: 108.0
+Section: Tweaks
+Maintainer: DunkeyyFong
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3)
+Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./DEB/com.dunkeyyfong.appsyncunified_108.0_iphoneos-arm.deb
+Size: 87220
+MD5sum: 4442b5ea45deab9321028c025a0c8441
+SHA1: dbca52e0c5d7f0e2a1f6ea405ef5b14c725a7453
+SHA256: 32406a91833c11a89f84e7df5d8d0c366082c55cc001785ce200276416652019
+SHA512: 8354e756c130a46b4a974887c946d3a875f7f27f0e2c0175a3ad632f168f4b15d292b8927e024f57ce8cb90d2449d93fc9e1f8458d704ca193ad7aa401efd61f
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn, hỗ trợ từ iOS5-iOS16
+Sileodepiction: https://dunkeyyfong.github.io/info/appsync.html
+Depiction: https://dunkeyyfong.github.io/info/appsync.html
+Name: AppSync Unified
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+
 Package: com.dunkeyyfong.filza
 Architecture: iphoneos-arm
 Version: 4.0.0-6
