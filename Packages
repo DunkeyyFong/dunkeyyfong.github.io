@@ -6,15 +6,15 @@ Maintainer: DunkeyyFong
 Depends: zip, unzip, gzip, unrar, p7zip, com.dunkeyyfong.libfilza
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./DEB/com.dunkeyyfong.filza_4.0.0-6_iphoneos-arm.deb
-Size: 8700438
-MD5sum: 29341628fdd8e92ec16055c53b0470fd
-SHA1: 90f881e45f3581cc4e98fd048313494d4b9fefe9
-SHA256: 6e5710bcce648ca536aa4ef575f7e60058dc3cfd083033ecf76e102b7214a7ac
-SHA512: 3054561e80681c9fb9687b138428c105df644011e7f47afba8a6b19b34778d35ecf93f64fa0bfb6058acaf3a14fe9beafefcbc4ae55ccfb954ab1446ffba01ba
+Size: 8700434
+MD5sum: b98d9fff6a5985d8b501a1018f7fcb6b
+SHA1: 4923c2c93f929291906a3a670b2f771d86d8f18a
+SHA256: d057715a449e3222035036a3379e9f80915c0de565186ed704cccb380f5561a5
+SHA512: 440a989a65c8cee19c55859d523f4166609e7250bb89dbd6e53fcd5a52dadec93c788b51293ad2d4736efb7755746444eb2a8081a0dee5507566138d49178c3d
 Description: https://dunkeyyfong.github.io/info/filza.html
 Name: Filza File Manager VN
-Depiction: https://dunkeyyfong.github.io/info/trollhelper.html
-SileoDepiction: https://dunkeyyfong.github.io/info/trollhelper.html
+Depiction: https://dunkeyyfong.github.io/info/filza.html
+SileoDepiction: https://dunkeyyfong.github.io/info/filza.html
 Author: TIGI Software
 
 Package: com.dunkeyyfong.libfilza
