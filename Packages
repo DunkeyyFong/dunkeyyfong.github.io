@@ -20,6 +20,26 @@ Depiction: https://dunkeyyfong.github.io/info/appsync.html
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 
+Package: com.dunkeyyfong.carplay
+Architecture: iphoneos-arm
+Version: 1.0.9.5
+Section: Tweaks
+Maintainer: DunkeyyFong
+Installed-Size: 5252
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
+Filename: ./DEB/com.dunkeyyfong.carplay_1.0.9.5_iphoneos-arm.deb
+Size: 3315994
+MD5sum: 90dad715d615c57ec76c24730d389bfe
+SHA1: 4ca195345a553cdd5e447d8fe17a7eb8b01356ca
+SHA256: 8e0850344f587c64dc8eea835e2d6293c4c0638062a9782963d764da14a67018
+SHA512: 314ac3f7be9394381af087744a590206132c346456c7b791516e4e3f11e1cf24765810b0f68b5ee7c9203a7ff1fcaeca22db0fc2d011383769d396762f67a349
+Description: Cho phép mở full app trên Carplay
+Name: CarBridge (iOS 10 - 12) VN
+Author: leftyfl1p
+Sileodepiction: https://dunkeyyfong.github.io/info/carbridge.html
+Depiction: https://dunkeyyfong.github.io/info/carbridge.html
+
 Package: com.dunkeyyfong.filza
 Architecture: iphoneos-arm
 Version: 4.0.0-6
