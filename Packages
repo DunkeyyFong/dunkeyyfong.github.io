@@ -138,6 +138,24 @@ Sileodepiction: http:://dunkeyyfong.github.io/info/filza.html
 Depiction: http:://dunkeyyfong.github.io/info/filza.html
 Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
+Package: com.dunkeyyfong.shadow
+Architecture: iphoneos-arm
+Version: 2.0.20
+Section: Hide Jailbreak
+Maintainer: DunkeyyFong
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./DEB/com.dunkeyyfong.shadow_2.0.deb
+Size: 252090
+MD5sum: 5d4261b77dff34eb319b131115c3048d
+SHA1: 7538d35afa97aab1e86cb44f931c7718e998544c
+SHA256: 259e2008f921426ae0cfe8ec6023819734c035f3d75c9abb1e6b3d810dbdab83
+SHA512: 0502a5752d36f1d309223debb6d5b2b34987039242a4624cea46c35512d07214d2cb5f6374078528b1358da0355adcee2aa827aac145d49b40434a2a424ceae6
+Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
+Name: Shadow VN
+Author: jjolano <jjolano@me.com>
+Sileodepiction: https://dunkeyyfong.github.io/info/shadow.html
+Depiction: https://dunkeyyfong.github.io/info/shadow.html
+
 Package: com.dunkeyyfong.trollstorehelper
 Architecture: iphoneos-arm
 Version: 1.5.1
